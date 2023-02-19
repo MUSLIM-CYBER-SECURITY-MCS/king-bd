@@ -279,7 +279,7 @@ def admin():
 	print(' [0] 𝐁𝐚𝐜𝐤 𝐭𝐨 𝐌𝐚𝐢𝐧 𝐦𝐞𝐧𝐮')
 	bal = input('𝐂𝐡𝐨𝐨𝐬𝐞 𝐨𝐩𝐭𝐢𝐨𝐧>>> ')
 	if bal =='1':
-		os.system('xdg-open https://wa.me/+8801401648565);time.sleep(1)
+		os.system('xdg-open https://wa.me/+8801701707661);time.sleep(1)
 		admin()
 	if bal =='2':
 		os.system('xdg-open https://www.facebook.com/im.not.a.king.bt.im.kingmeker');time.sleep(1)
